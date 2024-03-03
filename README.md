@@ -8,5 +8,5 @@ SMTP_USER=yourEmailAdress  <=
 SMTP_PASSWORD=YourPassword <=
 
 - npm test 
-
+- npm install
 - npm run start:dev
